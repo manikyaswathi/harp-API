@@ -1,2 +1,2 @@
 # harp-API
-HARP for TAPIS Integration
+Restructing HARP - modular approach. 
